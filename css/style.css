@@ -5,10 +5,12 @@
     box-sizing: border-box;
 }
 
+
 body {
 
    background-color: #e7e2e2;
 }
+
 
 main {
     width: 100%;
@@ -16,11 +18,14 @@ main {
     margin: 0 auto;
 }
 
+
 header {
     text-align: center;
     margin: 20px;
 
+
 }
+
 
 form {
     background-color: #FFFFFF;
@@ -29,6 +34,7 @@ form {
     margin-bottom: 100px;
 }
 
+
 fieldset {
     padding: 15px;
     margin-bottom: 15px;
@@ -36,11 +42,13 @@ fieldset {
     border: 1px solid #cccccc;
 }
 
+
 legend {
     font-weight: bold;
     font-size: 20px;    
     padding: 0 5px
 }
+
 
 input, select, textarea {
     width: 100%;
@@ -50,19 +58,26 @@ input, select, textarea {
     border-radius: 5px;
 }
 
+
 input[type="radio"], input[type="checkbox"] {
     width: auto;
 }
+
+
 input[type="color"]{
     width:50px;
     padding: 0 15px;
 }
+
 
 p {
     margin-bottom: 15px;
     font-weight: bold;
 }
 
+
 textarea {
     min-height: 100px;
 }
+
+
